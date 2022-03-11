@@ -1,4 +1,4 @@
-# Group5_Project-ONE
+# Divvy bike Rental Project
 
 ## Introduction
 
