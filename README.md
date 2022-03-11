@@ -1,4 +1,4 @@
-# Divvy bike Rental Project
+# Divvy Bike Rental Project
 
 ## Introduction
 
