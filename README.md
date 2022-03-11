@@ -1,2 +1,13 @@
 # Group5_Project-ONE
-Fintech Project ONE
+
+## Introduction
+
+## Inputs
+
+## Outputs
+
+## Methodology
+
+## Results Analysis
+
+## Conclusions
